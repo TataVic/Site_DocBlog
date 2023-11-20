@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site de Documentação',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Seja bem vido!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br'],
   },
 
   presets: [
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Meu site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -90,7 +90,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Docs - coluna 1 ',
             items: [
               {
                 label: 'Tutorial',
@@ -99,7 +99,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Community - coluna 2',
             items: [
               {
                 label: 'Stack Overflow',
@@ -116,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'More - coluna 3',
             items: [
               {
                 label: 'Blog',
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. By Tata Vic ❤️.`,
       },
       prism: {
         theme: prismThemes.github,
