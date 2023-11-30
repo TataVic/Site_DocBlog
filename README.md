@@ -4,5 +4,8 @@
 ---
 Visando desenvolver softskills de documentação e resolução de problemas que uma pessoa de TI possa ofertar para sua equipe de treinamento quanto ao blog para dúvidas ao usuários e membros. 
 
-
+---
+Utilizando Markdown:
+Guia Básico: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>
+---
 Desenvolvido com amor by Tata Vic❤️
