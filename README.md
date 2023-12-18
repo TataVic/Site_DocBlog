@@ -6,6 +6,6 @@ Visando desenvolver softskills de documentação e resolução de problemas que 
 
 ---
 Utilizando Markdown:
-Guia Básico: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>
+Guia Básico: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open> || <https://ajuda.gitlab.io/guia-rapido/markdown/markdown/>
 ---
 Desenvolvido com amor by Tata Vic❤️
